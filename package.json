@@ -2,7 +2,7 @@
   "name": "elm-pages-app",
   "scripts": {
     "postinstall": "elm-tooling install",
-    "start": "elm-pages dev",
+    "start": "elm-pages dev --port 3000",
     "build": "elm-pages build"
   },
   "devDependencies": {
